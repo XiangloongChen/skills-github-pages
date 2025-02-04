@@ -1,4 +1,4 @@
----
-title: Welcome to my blog
----
+## Shannon's blog
+
+Welcome to my blog!
 
