@@ -1,4 +1,4 @@
-## Shannon's blog
+# Shannon's blog
 
 Welcome to my blog!
 
